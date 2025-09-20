@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "title": "Streamline Your Workflow with ClearFlow",
+    "subtitle": "The all-in-one productivity SaaS that helps teams collaborate, automate, and achieve more.",
+    "cta": "Start Free Trial",
+    "trustBadge": "Join 50,000+ teams worldwide"
+  },
+  "navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "features": {
+    "title": "Powerful Features for Modern Teams",
+    "subtitle": "Everything you need to streamline your workflow and boost productivity",
+    "collaboration": {
+      "title": "Real-time Collaboration",
+      "description": "Work together seamlessly with live editing, comments, and instant notifications."
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Get insights into your team's performance with detailed reports and dashboards."
+    },
+    "automation": {
+      "title": "Workflow Automation",
+      "description": "Automate repetitive tasks and create custom workflows to save time."
+    },
+    "integrations": {
+      "title": "API Integrations",
+      "description": "Connect with 100+ tools and services to create your perfect workflow."
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that's right for your team",
+    "starter": {
+      "name": "Starter",
+      "price": "$9",
+      "period": "/month",
+      "description": "Perfect for small teams getting started",
+      "features": [
+        "Up to 5 team members",
+        "Basic collaboration tools",
+        "5GB storage",
+        "Email support"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "$29",
+      "period": "/month",
+      "description": "Advanced features for growing teams",
+      "features": [
+        "Up to 25 team members",
+        "Advanced analytics",
+        "100GB storage",
+        "Priority support",
+        "API access"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "$99",
+      "period": "/month",
+      "description": "Custom solutions for large organizations",
+      "features": [
+        "Unlimited team members",
+        "Custom integrations",
+        "Unlimited storage",
+        "24/7 phone support",
+        "Custom workflows"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Join thousands of teams who trust ClearFlow"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about ClearFlow"
+  },
+  "footer": {
+    "description": "The all-in-one productivity platform for modern teams.",
+    "links": {
+      "product": "Product",
+      "company": "Company",
+      "resources": "Resources",
+      "legal": "Legal"
+    }
+  }
+}
