@@ -13,7 +13,7 @@ interface PaymentModalProps {
 }
 
 const PaymentModal: React.FC<PaymentModalProps> = ({ isOpen, onClose, plan, className = '' }) => {
-  const { t, i18n } = useTranslation();
+  const { i18n } = useTranslation();
   const isRTL = i18n.language === 'ar';
   const [step, setStep] = useState(1);
   const [formData, setFormData] = useState({
